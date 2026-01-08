@@ -1,6 +1,6 @@
-# HPC Repository for \[University Name]
+# HPC Repository for New Mexico State University
 
-Welcome to the High-Performance Computing (HPC) resource repository for **\[University HPC Cluster Name]**. This repository provides documentation, job submission templates, and example workflows to help you get started with HPC resources.
+Welcome to the High-Performance Computing (HPC) resource repository for **New Mexico State University**. This repository provides documentation, job submission templates, and example workflows to help you get started with HPC resources.
 
 ***
 
